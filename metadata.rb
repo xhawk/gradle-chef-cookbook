@@ -1,4 +1,4 @@
-name             "gradle"
+name             "gradlecb"
 maintainer       "Michael S. Klishin"
 maintainer_email "michael@clojurewerkz.org"
 license          "MIT"
