@@ -6,4 +6,4 @@ version          "1.0.0"
 
 description      "Installs Gradle"
 recipe           "gradle::tarball",              "installs gradle from tarball"
-
+name             "gradle"
