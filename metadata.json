@@ -1,5 +1,5 @@
 {
-  "name": "gradle",
+  "name": "gradlecb",
   "description": "Installs gradle",
   "long_description": "# gradle chef cookbook\n\nInstalls the gradle build system ",
   "maintainer": "Michael S. Klishin",
