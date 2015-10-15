@@ -1,3 +1,4 @@
+name             "gradle"
 maintainer       "Michael S. Klishin"
 maintainer_email "michael@clojurewerkz.org"
 license          "MIT"
@@ -6,4 +7,3 @@ version          "1.0.0"
 
 description      "Installs Gradle"
 recipe           "gradle::tarball",              "installs gradle from tarball"
-name             "gradle"
